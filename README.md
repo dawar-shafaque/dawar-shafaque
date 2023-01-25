@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ### :fire: My Stats :
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Gpadam11&theme=highcontrast&show_icons=true&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gpadam11)
+![Github stats](https://github-readme-stats.vercel.app/api?username=dawar-shafaque&theme=highcontrast&show_icons=true&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dawar-shafaque)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Gpadam11&layout=compact)
